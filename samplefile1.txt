@@ -1,5 +1,7 @@
 This is sample file 1
 
 
+
 git revert commit 1
 This is comparison lecture
+Testing the merge develop
